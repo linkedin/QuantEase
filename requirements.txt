@@ -1,0 +1,7 @@
+torch==2.0.0+cu118
+transformers==4.35.0
+scipy==1.11.3
+einops==0.7.0
+datasets==2.14.7
+scikit-learn==1.4.0
+sacrebleu==2.3.1
