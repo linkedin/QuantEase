@@ -87,7 +87,7 @@ if __name__ == '__main__':
 
     parser.add_argument(
         '--quantization-method', type=str, default='quantease',
-        help='The quantization method to use "gptq" or "quantease".'
+        help='The quantization method to use "gptq_quantease" or "quantease".'
     )
 
     parser.add_argument(
